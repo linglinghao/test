@@ -1,0 +1,27 @@
+---
+title: 课程安排表
+layout: main
+---
+
+<!-- Main -->
+	<div id="main" class="wrapper style1">
+		<div class="container">
+			<section>
+				<div class="10u -1u">
+					<header class="major">
+						<h2>臼井圣火灵气课程</h2>
+						<span class="byline">课程分为三个阶段，分别为一阶，二阶，高阶臼井圣火/导师阶/karuna灵气</span>
+					</header>
+					<ul class="style">
+						{% for post in site.posts offset: 0 limit: 4 %}
+						<li>
+							<a href="{{ site.baseurl }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
+							<img src="{{ site.baseurl }}/assets/{{ post.featured }}" alt="">
+							{{ post.excerpt }}
+						</li>
+						{% endfor %}
+					</ul>
+				</div>
+			</section>
+		</div>
+	</div>
