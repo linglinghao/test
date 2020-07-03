@@ -1,6 +1,6 @@
 ---
 title: Holy Fire III (臼井圣火III) - Karuna 导师阶
-##featured: images/pic02.jpg
+featured: images/semi-3.jpg
 layout: post
 ---
 

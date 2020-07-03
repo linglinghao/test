@@ -1,6 +1,6 @@
 ---
 title: Usui/Holy Fire III （臼井/圣火III）- 导师阶
-##featured: images/pic03.jpg
+featured: images/semi-2.jpg
 layout: post
 ---
 

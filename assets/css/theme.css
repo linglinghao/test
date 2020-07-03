@@ -1,0 +1,36 @@
+/*
+	Horizons by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+@import url("font-awesome.min.css");
+@import url("http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
+
+/* Footer */
+
+#footer {
+    padding: 4em 0;
+    color:yellow;
+}
+
+    #footer .major h2 {
+        font-size: 2em;
+        color: #FFF;
+    }
+
+    #footer .major .byline {
+        font-size: 1.1em;
+    }
+
+    #footer .copyright {
+        margin-top: 3em;
+        padding-top: 3em;
+        border-top: 1px solid;
+        border-color: rgba(192, 192, 192, 0.15);
+        text-align: center;
+        color: inherit;
+    }
+
+    #footer a {
+        color: inherit;
+    }

@@ -2,9 +2,9 @@
 	<nav id="nav">
 		<ul>
 			{% assign current = page.url | downcase | split: '/' %}
-			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/index.html">首页</a></li>
 			<li>
-				<a href="">文章</a>
+				<a href="">灵气文章</a>
 				<ul>
 					<li><a href="/five-reiki-precepts">灵气五戒</a></li>
 					<li><a href="#">Magna phasellus</a></li>
@@ -22,9 +22,12 @@
 					<li><a href="#">Veroeros feugiat</a></li>
 				</ul>
 			</li>
-			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/blog">最新课程安排</a></li>
-			<li {% if current[1] == 'left-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/left-sidebar.html">Left Sidebar</a></li>
-			<li {% if current[1] == 'right-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/right-sidebar.html">Right Sidebar</a></li>
-			<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/no-sidebar.html">No Sidebar</a></li>
+			<li {% if current[1] == 'seminar' %}class='current'{% endif %}><a href="{{ site.baseurl }}/seminar">课程内容</a></li>
+			<li {% if current[1] == 'activity' %}class='current'{% endif %}><a href="{{ site.baseurl }}/activity">课程安排</a></li>
+			<li {% if current[1] == 'contact' %}class='current'{% endif %}><a href="{{ site.baseurl }}/contact">联系我们</a></li>
+
+			<!-- <li {% if current[1] == 'left-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/left-sidebar.html">Left Sidebar</a></li> -->
+			<!-- <li {% if current[1] == 'right-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/right-sidebar.html">Right Sidebar</a></li> -->
+			<!-- <li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/no-sidebar.html">No Sidebar</a></li> -->
 		</ul>
 	</nav>

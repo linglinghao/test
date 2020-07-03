@@ -10,6 +10,7 @@
 
 	body {
 		background: #222833;
+		min-width: 1280px;
 	}
 
 	body, input, select, textarea {
@@ -314,11 +315,6 @@
 		ul.style li {
 			clear: both;
 			display: block;
-			padding-top: 3em;
-		}
-
-		ul.style > :first-child {
-			padding-top: 0;
 		}
 
 		ul.style h3 {
@@ -631,7 +627,7 @@
 
 	#footer {
 		padding: 4em 0;
-		color: #fff;
+		color: white;
 	}
 
 		#footer .major h2 {
@@ -655,3 +651,54 @@
 		#footer a {
 			color: inherit;
 		}
+.wrapper-page{
+	background-color: #f6f6f6;
+}
+
+.seminar-page  .style{
+	display: flex;
+    max-width: 1200px;
+    margin: auto;
+}
+.seminar-page .blog_holder-n {
+	background-color: white;
+	height: 530px;
+	flex: 0 0 360px;
+    margin-right: 60px;
+    text-align: center;
+    border-radius: 4px;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+	position: relative;
+	padding-top: 0;
+}
+.seminar-page .blog_holder-n  h4{
+	color: #ce8f66;
+	font-size: 16px;
+	font-weight: 600;
+}
+.seminar-page .blog_holder-n .blog-holder-n-container{
+	padding: 10px 10px;
+	text-align: left;
+}
+.seminar-page .blog_holder-n img{
+	height: 180px;
+	width: 100%;
+}
+
+.contact-page .style{
+	display: flex;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.contact-page .blog_holder-n {
+	height: 300px;
+	flex: 0 0 360px;
+    text-align: center;
+    border-radius: 4px;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+	position: relative;
+	padding-top: 0;
+}
