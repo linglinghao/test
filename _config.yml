@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Jony
-email:
+title: Reiki
+email: 
 description: 
-url: http://jony.im
+url: 
 
 
 #
@@ -18,7 +18,7 @@ timezone:          Asia/Beijing
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:title
+permalink:         /:title
 
 kramdown:
   auto_ids: true
@@ -33,12 +33,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Jony
-  avatar: jony.jpg
+  name: Zoe
+  avatar: 
   job: ""
   bio: ""
   email:
-  disqus-shortname: jonnycheng
+  disqus-shortname: Zoe
   twitter: #username
   facebook: #username
   google:
