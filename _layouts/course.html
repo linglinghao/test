@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<div class="course-top et_pb_row_1">
+    <div class="et_pb_banner" style="background-image:url('/img/banner.png')">
+        <h2>{{page.title}}</h2>
+        <p>{{page.desc}}</p>
+    </div>
+    <!-- <div class="et_pb_suit">
+        <div class="et-pb-inner">
+            <div class="et-pb-left">
+                <h4>课程适合人群</h4>
+                <ul>
+                    {% for link in page.suit %}
+                      <li> {{link}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="et-pb-right">
+                <img loading="lazy" class="size-medium" src="/img/book.jpg">
+            </div>
+        </div>
+    </div> -->
+    <div class="et_pb_role">
+        <div class="et-pb-role-inner">
+            <h3>灵气的作用</h4>
+            <ul>
+                {% for role in page.role %}
+                    <li>
+                        <img src="/img/1.png">
+                        {{role}}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <!-- <div class="et_pb_module">
+        <div class="et-pb-module-inner">
+            <h3>课程内容</h4>
+            <ul>
+                {% for role in page.module %}
+                    <li>
+                        {{role}}
+                        
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div> -->
+    <article class="post-content">
+        <div class="post-content-inner">
+            {{ content }}
+        </div>
+    </article>
+    <div class="et_pb_suit-section">
+        <h2 style="text-align: center;">课程适合人群</h2>
+        <div class="et_pb_row_containr">
+            {% for link in page.suit %}
+            <div class="et_pb_row">
+                <div class="et_pb_column">
+                    <img src={{link.imge}}>
+                </div>
+                <div class="et_pb_text_inner">
+                    <p>{{link.name}}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="et_course_form_class">
+        <div class="et-course-form-class-inner">
+            <h3>上课形式</h4>
+            <ul>
+                {% for form in page.formclass %}
+                    <li>  {{form}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

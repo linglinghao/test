@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="blog-container-page">
+    <!-- <img class='fix-img' src='/img/fix-back.jpg'/> -->
+    <div class="et_pb_banner" style="background-image:url('/img/banner1.png')">
+        <h2>{{page.title}}</h2>
+        <p>{{page.desc}}</p>
+    </div>
+    <div class="main-container">
+        <div class="left">
+            <article class="post-content">
+                <div class="post-content-inner">
+                    {{ content }}
+                </div>
+            </article>
+        </div>
+        <div class="right">
+            <p>相关链接</p>
+            <ul>
+                {% for role in page.related %}
+                    <li>
+                        <a href={{role.link}}>
+                        <img src={{role.image}}>
+                        {{role.name}}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

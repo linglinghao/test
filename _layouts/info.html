@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="info-container-page">
+    <div class="et_pb_banner" style="background-image:url('/img/banner1.png')">
+        <h2>{{page.title}}</h2>
+        <p>{{page.desc}}</p>
+    </div>
+    <div class="main-container">
+        <div class="main-inner-container">
+            {% for role in page.info %}
+            <div class="blog-item">
+                <img class="post_image" src={{role.img}}>
+                <div class="post_text">
+                    <h5 class="entry_title">{{role.name}}</h5>
+                    <p>{{role.desc}}</p>
+                    <a class="btn btn-more" href={{role.link}}>
+                        了解更多
+                     </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <article class="post-content">
+        <div class="post-content-inner">
+            {{ content }}
+        </div>
+    </article>
+</div>
