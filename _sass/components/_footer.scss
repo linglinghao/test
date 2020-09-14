@@ -8,8 +8,9 @@
     height: 440px;
     padding: 50px 50px 0 80px;
     .footer-left-container{
-        width: 400px;
+        width: 300px;
         display: inline-block;
+        float: left;
         vertical-align: top;
         font-size: 14px;
         padding-top: 20px;
@@ -21,10 +22,11 @@
     .footer-right-container{
         display: inline-block;
         text-align: left;
+        float: right;
         dd{
             float: right;
-            margin-left: 60px;
-            width: 240px;
+            margin-left: 20px;
+            width: 220px;
         }
         p{
             color: hsla(0,0%,100%,.5);
