@@ -3,29 +3,11 @@
 ---
 @charset "UTF-8";
 
-// Mixins
-@import "components/mixins";
-
-// Variables
-@import "components/variables";
-
-// Reset
-@import "components/normalize";
-
 // Components
-@import "components/particles";
-@import "components/global";
-@import "components/helpers";
-@import "components/grid";
-@import "components/typography";
+@import "components/variables";
 @import "components/buttons";
-@import "components/syntax-highlighting";
-@import "components/footer";
 
 // Pages styling
-@import "pages/layout";
-@import "pages/tags";
-@import "pages/post";
 @import "pages/index";
 
 // layout
@@ -35,3 +17,4 @@
 @import "layout/contact.scss";
 @import "layout/info.scss";
 @import "layout/association.scss";
+@import "layout/footer.scss";
