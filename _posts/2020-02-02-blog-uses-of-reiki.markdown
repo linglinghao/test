@@ -2,7 +2,7 @@
 layout: blog
 title:  "灵气日常运用"
 desc: "灵气常用于疗愈自己和他人，除此之外，还有许多其他用途。下面是一些帮助你在生活中使用灵气的小建议，注意查收。"
-related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/articles/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/articles/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/articles/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/articles/blog-five-principle'}]
+related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/blog-five-principle'}]
 date:   2014-01-01 +0800
 categories: course
 comments: true

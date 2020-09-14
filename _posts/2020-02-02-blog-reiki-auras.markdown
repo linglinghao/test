@@ -2,7 +2,7 @@
 layout: blog
 title:  "运用灵气来观察光环和前世"
 desc: '介绍一种简单的方法来运用灵气观察光环和前世'
-related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/articles/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/articles/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/articles/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/articles/blog-five-principle'}]
+related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/blog-five-principle'}]
 categories: course
 comments: true
 ---

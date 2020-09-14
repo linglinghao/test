@@ -2,7 +2,7 @@
 layout: blog
 title:  "灵气冥想"
 desc: '冥想是创造安静和聆听寂静之声的艺术。祈祷是与神交谈的行为，而冥想是真正倾听神与我们分享的行为。冥想的两个关键点是创建冥想时间和提升专注力。'
-related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/articles/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/articles/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/articles/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/articles/blog-five-principle'}]
+related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/blog-five-principle'}]
 date:   2014-01-01 +0800
 categories: course
 comments: true

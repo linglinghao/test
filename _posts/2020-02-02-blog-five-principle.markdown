@@ -2,7 +2,7 @@
 layout: blog
 title:  "五项基本原则"
 desc: '灵气的创始人臼井先生提出了五项原则，是为所有灵气实践者和爱好者建议的指导方针，并称之为“招福之秘法，万病之良药”'
-related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/articles/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/articles/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/articles/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/articles/blog-five-principle'}]
+related: [{name: '灵气与光环',image: '/img/auras.jpg',link: '/blog-reiki-auras'},{name: '灵气日常运用',image: '/img/life.jpg',link: '/blog-uses-of-reiki'},{name: '灵气21天冥想',image: '/img/meditation.jpg', link: '/blog-reiki-meditation'},{name: '灵气五戒',image: '/img/five-principles.jpg', link: '/blog-five-principle'}]
 categories: course
 comments: true
 ---
