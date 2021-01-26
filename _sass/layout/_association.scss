@@ -30,6 +30,9 @@
             font-weight: 600;
             text-align: center;
         }
+        .member-box{
+            padding: 0 40px;
+        }
         p{
             text-align: justify;
             color: #797979;
@@ -37,6 +40,11 @@
             line-height: 24px;
             font-style: normal;
             font-weight: 400;
+            span{
+                display: inline-block;
+                width: 200px;
+                color: black;
+            }
         }
         img{
             width: 350px;
