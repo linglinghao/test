@@ -7,7 +7,7 @@ categories: course
 comments: true
 ---
 
-<h2>灵气五222222222222222222222戒</h2>
+<h2>灵气五戒</h2>
 <img src='/img/five-principles.jpg'>
 <p>
 灵气的创始人臼井先生提出了五项原则，是为所有灵气实践者和爱好者建议的指导方针，并称之为“招福之秘法，万病之良药”。
