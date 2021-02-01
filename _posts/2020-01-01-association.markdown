@@ -50,18 +50,18 @@ comments: true
 <p><span>Bai Xu</span><span>Bob Na</span></p>
 <p><span>Chang Yuju</span><span>Crystal Sun</span></p>
 <p><span>Daniel Han</span></p>
-<p><span>Guangyu Wen</span></p>
-<p><span>Hunter Moran</span></p>
+<p><span>Ge Yizhen</span><span>Guangyu Wen</span></p>
+<p><span>He Baoying</span><span>Hunter Moran</span></p>
 <p><span>JiaXing Sun</span><span>Jia YuanFei(YouRan)</span><span>Juan Chen</span><span>JUNYAO LI</span></p>
-<p><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span></p>
+<p><span>LIXIA JIA</span><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span></p>
 <p><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span></p>
 <p><span>Nana Xu</span><span>Ning Qian</span></p>
 <p><span>poppy zeng</span></p>
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span></p>
-<p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span><span>Shi Yan</span></p>
-<p><span>Wawa</span><span>Wei Ruolin</span></p>
+<p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span><span>Shi Yan</span><span>Si Xuan Chen</span></p>
+<p><span>Wawa</span><span>Wei Ruolin</span><span>Weilin Chen</span></p>
 <p><span>Xiaoying Han</span><span>Xu Qiyuan</span><span>Xian Nan</span></p>
-<p><span>Yang Ming</span><span>Yanyan Gao</span><span>Ye Qing</span><span>YiZhen Liu</span><span>Yi Fan . Le</span></p>
+<p><span>Yang Ming</span><span>Yan Yu</span><span>Yanyan Gao</span><span>Yan Zhang</span><span>Ye Qing</span><span>YiZhen Liu</span><span>Yi Fan . Le</span></p>
 <p><span>Yu Shu</span></p>
 <p><span>ZhiShunYang</span><span>Zhou Xun</span></p>
 </div>
