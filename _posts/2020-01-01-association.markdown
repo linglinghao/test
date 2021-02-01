@@ -52,10 +52,11 @@ comments: true
 <p><span>Daniel Han</span></p>
 <p><span>Guangyu Wen</span></p>
 <p><span>Hunter Moran</span></p>
-<p><span>JiaXing Sun</span><span>Jia YuanFei(YouRan)</span><span>Juan Chen</span></p>
+<p><span>JiaXing Sun</span><span>Jia YuanFei(YouRan)</span><span>Juan Chen</span><span>JUNYAO LI</span></p>
 <p><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span></p>
 <p><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span></p>
 <p><span>Nana Xu</span><span>Ning Qian</span></p>
+<p><span>poppy zeng</span></p>
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span></p>
 <p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span><span>Shi Yan</span></p>
 <p><span>Wawa</span><span>Wei Ruolin</span></p>
