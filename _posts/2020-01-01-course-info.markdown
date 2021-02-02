@@ -1,6 +1,6 @@
 ---
 layout: info
-title:  "近期课程讯息"
+title:  "身心灵学院课程"
 desc: "请添加微信tarot_hermit咨询"
 info: [{name: '臼井圣火1-3阶课程', desc: '课程时间：2020年10月16,17日 </br> 课程地点：浙江杭州线下/线上同步 </br>这门课程需要您有开阔的胸怀和爱，会学习如何疗愈和水晶阵成愿', link: '/course-reiki-1-2-3',img: '/img/reiki-1-2-3.jpg'},
 
