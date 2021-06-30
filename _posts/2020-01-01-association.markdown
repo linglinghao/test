@@ -48,7 +48,7 @@ comments: true
 <div class='member-box'>
 <p><span>Ashley Tsui</span><span>Aana Chen</span></p> 
 <p><span>Bai Xu</span><span>Bob Na</span><span>Bohan Lv</span></p>
-<p><span>Chang Yuju</span><span>ChenyuePeng</span><span>Chu , Kit yu Ayumi</span><span>Crystal Sun</span></p>
+<p><span>Chang Yuju</span><span>ChenyuePeng</span><span>Chuyin Ricki</span><span>Chu , Kit yu Ayumi</span><span>Crystal Sun</span></p>
 <p><span>Daniel Han</span></p>
 <p><span>Ge Yizhen</span><span>Guangyu Wen</span></p>
 <p><span>He Baoying</span><span>Hunter Moran</span></p>
