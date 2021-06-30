@@ -53,7 +53,8 @@ comments: true
 <p><span>Ge Yizhen</span><span>Guangyu Wen</span></p>
 <p><span>He Baoying</span><span>Hunter Moran</span></p>
 <p><span>JiaXing Sun</span><span>Jia YuanFei(YouRan)</span><span>Juan Chen</span><span>JUNYAO LI</span></p>
-<p><span>LIXIA JIA</span><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span><span>Luo Xiaorui</span></p>
+<p><span>LIXIA JIA</span><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span></p>
+<p><span>Luo Xiaorui</span></p>
 <p><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span></p>
 <p><span>Nana Xu</span><span>Ning Qian</span></p>
 <p><span>Poppy Zeng</span></p>
